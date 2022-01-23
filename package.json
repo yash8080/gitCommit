@@ -1,0 +1,21 @@
+{
+  "name": "1.0.0",
+  "version": "1.0.0",
+  "description": "something",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "paurush",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/paurush11/my-commit/issues"
+  },
+  "homepage": "https://github.com/paurush11/my-commit#readme",
+  "dependencies": {
+    "jsonfile": "^6.1.0",
+    "moment": "^2.29.1",
+    "random": "^3.0.3",
+    "simple-git": "^2.37.0"
+  }
+}
